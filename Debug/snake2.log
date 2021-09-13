@@ -1,0 +1,19 @@
+﻿  snake2.cpp
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(244,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(317,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1332,47): warning C4806: “!=”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1397,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1398,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1486,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1495,50): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1496,54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1573,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1574,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1575,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1576,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1662,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1667,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1674,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1675,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\study\代码\code\数据结构课设\课设B题\snake2\machine.h(1794,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  snake2.vcxproj -> E:\study\代码\code\数据结构课设\课设B题\snake2\Debug\snake2.exe
